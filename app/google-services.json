@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297777699564",
+    "project_id": "quize-f7bff",
+    "storage_bucket": "quize-f7bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297777699564:android:879f25fe00de863fbb23c9",
+        "android_client_info": {
+          "package_name": "com.example.trialproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3xPstAFSyESOWLQd_egxhvNZaMva5SsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
